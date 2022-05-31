@@ -36,3 +36,8 @@ html, body {
     color: var(--color-primary) ! important;
 }
 
+.table {
+    --bs-table-color: var(--bs-gray-600);
+    --bs-table-bg: var(--bs-gray-100);
+    --bs-table-border-color: transparent;
+  }
