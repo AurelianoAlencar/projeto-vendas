@@ -8,7 +8,7 @@ const DataTable = () => {
             <table className="table table-striped table-sm">
                 <thead>
                     <tr>
-                        <th>Data</th>
+                        <th>Datas</th>
                         <th>Vendedor</th>
                         <th>Cliente visitados</th>
                         <th>Negócios fechados</th>
